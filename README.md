@@ -1,0 +1,1 @@
+MenuItemCard dan MenuSearchField diekstrak untuk reuse karena dipakai berulang dan modular. Sementara MenuHeader, MenuEmptyState, dan MenuTotalBar diekstrak demi readability agar method build di MenuScreen lebih ringkas dan muat dalam satu layar editor
